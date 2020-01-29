@@ -1,0 +1,20 @@
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install git 
+
+$ apt install python2
+
+$ git clone https://github.com/shawarkhanethicalhacker/D-TECT
+
+$ cd D-TECT
+
+$ chmod +x *
+
+$ pip2 install requests
+
+usage :
+
+$ python2 d-tect.py
+
